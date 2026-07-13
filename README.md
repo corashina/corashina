@@ -10,4 +10,4 @@
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=corashina&count_private=true&theme=tokyonight" alt="corashina's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=corashina&theme=tokyonight&layout=compact&v=2" width="37%" alt="corashina's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs?username=corashina&theme=tokyonight&layout=compact&v=2" width="37%" alt="corashina's Top Languages">
