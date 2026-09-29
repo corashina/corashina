@@ -17,28 +17,30 @@ I like turning complex operational processes into software that is clear and dep
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Start Here
-
-The quickest overview of my work:
-
-- 🏙️ **[Endless City](https://github.com/corashina/Endless-City)** — a deterministic, continuously streamed WebGL city with simulated traffic.
-- 🧰 **[Professional Work](#professional-work)** — full-stack product work across operational software, mobile applications, document AI, and integrations.
-- 🌳 **[WebGL Minecraft](https://github.com/corashina/WebGL-Minecraft)** — a browser sandbox with terrain generation, movement, and collision detection.
-
 ## Professional Work
 
-I've worked on private company software spanning warehouse and manufacturing operations, workflow approvals, mobile applications, e-invoicing, document AI, and ERP integrations.
+I work across React and TypeScript interfaces, APIs, .NET/C# services, mobile clients, shared libraries, CI/CD, and delivery tooling. See my [Work portfolio](https://corashina.github.io/works) for project details and media.
 
-I started in frontend development and grew into a full-stack role, working across React and TypeScript interfaces, APIs, .NET/C#, mobile clients, shared libraries, CI/CD, and delivery tooling.
+### Commercial
 
-## Selected Projects
+- [Xelcode](https://corashina.github.io/works/xelcode) — Scanner-driven warehouse and manufacturing workflows integrated with Oracle JD Edwards E1.
+- [XELapps](https://corashina.github.io/works/xelapps) — Client and application setup modules for the Xelto platform.
+- [Doc AI](https://corashina.github.io/works/icr) — Document AI interfaces for PDF handling, prompt configuration, analysis, and structured results.
+- [Workflow](https://corashina.github.io/works/workflow) — Approval and operational workflow modules for business processes.
+- [Holiday](https://corashina.github.io/works/holiday) — Employee leave administration workflows.
+- [eInvoicing](https://corashina.github.io/works/einvoicing) — E-invoicing interfaces for integration rules, document and log views, and PDF/XML workflows.
 
-Public experiments and applications I have built over time:
+### Freelance
 
-- **[Endless City](https://github.com/corashina/Endless-City)** — an interactive low-poly city with deterministic world streaming, fixed-step traffic simulation, mobile controls, and bounded object pools.
-- **[WebGL Minecraft](https://github.com/corashina/WebGL-Minecraft)** — a Three.js experiment with infinite terrain generation, movement, collision detection, and block selection.
-- **[Civio](https://github.com/corashina/Civio)** — a turn-based WebGL strategy-game experiment with generated terrain, an orthographic interface layer, and a water shader.
-- **[Particle Simulation](https://github.com/corashina/Particle-Simulation)** — a TypeScript and GLSL particle-engine experiment.
+- [MIBSI](https://corashina.github.io/works/mibsi) — Experimental tooling for Android Auto and CarPlay integration with Audi’s Virtual Cockpit, including navigation bridging, installation packaging, and verification.
+
+### Experiments
+
+- [Don't Sleep With The Fishes](https://github.com/corashina/dont-sleep-with-the-fishes) — Desktop-browser survival game about scavenging a sinking ship and managing a lifeboat while waiting for rescue.
+- [Cosmic Sugar](https://github.com/corashina/cosmic-sugar) — Interactive Three.js particle simulation with sculptable push and pull forces.
+- [Flappy-Pixie](https://github.com/corashina/Flappy-Pixie) — Flappy Bird clone made in one week for an interview challenge.
+- [Endless-City](https://github.com/corashina/Endless-City) — Infinite WebGL scene inspired by littleworkshop.fr.
+- [WebGL-Minecraft](https://github.com/corashina/WebGL-Minecraft) — Minecraft clone made with Three.js.
 
 ## What I Work With
 
@@ -56,5 +58,5 @@ Public experiments and applications I have built over time:
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Tomasz_Zielinski-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corashina)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edisoner97@gmail.com?subject=Hello,%20Tomasz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomasz_Zielinski-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corashina)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edisoner97@gmail.com?subject=Hello%2C%20Tomasz)
