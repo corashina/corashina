@@ -38,9 +38,9 @@ I work across React and TypeScript interfaces, APIs, .NET/C# services, mobile cl
 
 - [Don't Sleep With The Fishes](https://github.com/corashina/dont-sleep-with-the-fishes) — Desktop-browser survival game about scavenging a sinking ship and managing a lifeboat while waiting for rescue.
 - [Cosmic Sugar](https://github.com/corashina/cosmic-sugar) — Interactive Three.js particle simulation with sculptable push and pull forces.
-- [Flappy-Pixie](https://github.com/corashina/Flappy-Pixie) — Flappy Bird clone made in one week for an interview challenge.
-- [Endless-City](https://github.com/corashina/Endless-City) — Infinite WebGL scene inspired by littleworkshop.fr.
-- [WebGL-Minecraft](https://github.com/corashina/WebGL-Minecraft) — Minecraft clone made with Three.js.
+- [flappy-pixie](https://github.com/corashina/flappy-pixie) — Flappy Bird clone made in one week for an interview challenge.
+- [endless-city](https://github.com/corashina/endless-city) — Infinite WebGL scene inspired by littleworkshop.fr.
+- [webgl-minecraft](https://github.com/corashina/webgl-minecraft) — Minecraft clone made with Three.js.
 
 ## What I Work With
 
