@@ -1,50 +1,62 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Tomasz Zielinski. Full-stack developer. I build business software for a living and games for fun.">
-</p>
+<img src="https://media0.giphy.com/media/PZrjGkr334fXa/giphy.gif?cid=790b7611a4224d3c6e4f031ff6e80d9f1dda74d2595f0270&rid=giphy.gif&ct=g" width="100%" alt="Animated banner">
+
+# Hi, I'm Tomasz 👋
+
+📍 **Poznań, Poland** | 🛠️ **Full-Stack Engineer** | 🚀 **Product builder**
+
+I build full-stack software for business workflows, operational systems, mobile applications, integrations, and document AI.
+My work spans React and TypeScript interfaces, APIs and .NET services, mobile clients, delivery tooling, and creative WebGL projects.
+I like turning complex operational processes into software that is clear and dependable for the people using it.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## Professional Work
+
+I work across React and TypeScript interfaces, APIs, .NET/C# services, mobile clients, shared libraries, CI/CD, and delivery tooling. See my [Work portfolio](https://corashina.github.io/works) for project details and media.
+
+### Commercial
+
+- [Xelcode](https://corashina.github.io/works/xelcode) — Scanner-driven warehouse and manufacturing workflows integrated with Oracle JD Edwards E1.
+- [XELapps](https://corashina.github.io/works/xelapps) — Client and application setup modules for the Xelto platform.
+- [Doc AI](https://corashina.github.io/works/icr) — Document AI interfaces for PDF handling, prompt configuration, analysis, and structured results.
+- [Workflow](https://corashina.github.io/works/workflow) — Approval and operational workflow modules for business processes.
+- [Holiday](https://corashina.github.io/works/holiday) — Employee leave administration workflows.
+- [eInvoicing](https://corashina.github.io/works/einvoicing) — E-invoicing interfaces for integration rules, document and log views, and PDF/XML workflows.
+
+### Freelance
+
+- [MIBSI](https://corashina.github.io/works/mibsi) — Experimental tooling for Android Auto and CarPlay integration with Audi’s Virtual Cockpit, including navigation bridging, installation packaging, and verification.
+
+### Experiments
+
+- [Don't Sleep With The Fishes](https://github.com/corashina/dont-sleep-with-the-fishes) — Desktop-browser survival game about scavenging a sinking ship and managing a lifeboat while waiting for rescue.
+- [Cosmic Sugar](https://github.com/corashina/cosmic-sugar) — Interactive Three.js particle simulation with sculptable push and pull forces.
+- [flappy-pixie](https://github.com/corashina/flappy-pixie) — Flappy Bird clone made in one week for an interview challenge.
+- [endless-city](https://github.com/corashina/endless-city) — Infinite WebGL scene inspired by littleworkshop.fr.
+- [webgl-minecraft](https://github.com/corashina/webgl-minecraft) — Minecraft clone made with Three.js.
+
+## What I Work With
+
+- **Frontend:** React, TypeScript, JavaScript, Redux Toolkit, React Query, Material UI, Mantine, Vite, Tailwind CSS, TanStack Table, and Three.js/WebGL.
+- **Backend and integrations:** Node.js, REST/HTTP APIs, JWT authentication, .NET/C#, XML/XSLT, n8n, and ERP integration.
+- **Mobile:** React Native/Expo and Flutter.
+- **Delivery:** GitHub Actions, npm package publishing, shared libraries, and CI/CD workflows.
+
+## GitHub Activity
 
 <p align="center">
-  <a href="https://tomasz-zielinski.com"><img src="./assets/link-website.svg" height="52" alt="Website"></a>
-  <a href="mailto:corashina@gmail.com"><img src="./assets/link-email.svg" height="52" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/corashina"><img src="./assets/link-linkedin.svg" height="52" alt="LinkedIn"></a>
-  <a href="https://tomasz-zielinski.com/blog"><img src="./assets/link-blog.svg" height="52" alt="Blog"></a>
+  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=corashina&amp;count_private=true&amp;theme=tokyonight" alt="Tomasz's GitHub stats" width="59%">
+  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs?username=corashina&amp;theme=tokyonight&amp;layout=compact&amp;v=2" alt="Tomasz's most used public repository languages" width="38%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-0d1517?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-React-0d1517?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/-JavaScript-0d1517?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React%20Native-0d1517?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/-Expo-0d1517?style=flat-square&amp;logo=expo&amp;logoColor=FFFFFF" alt="Expo">
-  <br>
-  <img src="https://img.shields.io/badge/-C%23-0d1517?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDEuNWw5LjEgNS4yNXYxMC41TDEyIDIyLjVsLTkuMS01LjI1VjYuNzV6IiBmaWxsPSIjOWI0Zjk2Ii8%2BPHBhdGggZD0iTTEzLjQgOC42YTQuNCA0LjQgMCAxIDAgMCA2LjgiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMTUuNiAxMC40aDRNMTUuNiAxMy42aDRNMTYuOCA5djZNMTguNiA5djYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjEiLz48L3N2Zz4%3D" alt="C#">
-  <img src="https://img.shields.io/badge/-.NET-0d1517?style=flat-square&amp;logo=dotnet&amp;logoColor=A78BFA" alt=".NET">
-  <img src="https://img.shields.io/badge/-Azure-0d1517?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTkuNiAyLjVoNS4xTDcuNCAyMS41SDIuM3oiIGZpbGw9IiMwMDg5ZDYiLz48cGF0aCBkPSJNMTUuMiA3LjRsNi41IDE0LjFIOS41bDYuMi0xLjktMy42LTQuM3oiIGZpbGw9IiM1MGI4ZjAiLz48L3N2Zz4%3D" alt="Azure">
-  <img src="https://img.shields.io/badge/-SQL-0d1517?style=flat-square&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNS41IiByeD0iOCIgcnk9IjMiIGZpbGw9IiNlODU2NGYiLz48cGF0aCBkPSJNNCA1LjV2MTNjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM3YtMTNjMCAxLjctMy42IDMtOCAzcy04LTEuMy04LTN6IiBmaWxsPSIjYzgzMjJiIi8%2BPHBhdGggZD0iTTQgMTBjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM000IDE0LjVjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIgc3Ryb2tlPSIjZmZiM2FlIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiLz48L3N2Zz4%3D" alt="SQL">
-  <img src="https://img.shields.io/badge/-Node.js-0d1517?style=flat-square&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js">
-  <br>
-  <img src="https://img.shields.io/badge/-Google%20Gemini-0d1517?style=flat-square&amp;logo=googlegemini&amp;logoColor=8E75B2" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/-Google%20Cloud-0d1517?style=flat-square&amp;logo=googlecloud&amp;logoColor=4285F4" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/-n8n-0d1517?style=flat-square&amp;logo=n8n&amp;logoColor=EA4B71" alt="n8n">
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-0d1517?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions">
-  <br>
-  <img src="https://img.shields.io/badge/-Kotlin-0d1517?style=flat-square&amp;logo=kotlin&amp;logoColor=A97BFF" alt="Kotlin">
-  <img src="https://img.shields.io/badge/-Java-0d1517?style=flat-square&amp;logo=openjdk&amp;logoColor=F89820" alt="Java">
-  <img src="https://img.shields.io/badge/-Android-0d1517?style=flat-square&amp;logo=android&amp;logoColor=34A853" alt="Android">
-  <img src="https://img.shields.io/badge/-Flutter-0d1517?style=flat-square&amp;logo=flutter&amp;logoColor=47C5FB" alt="Flutter">
-  <br>
-  <img src="https://img.shields.io/badge/-Three.js-0d1517?style=flat-square&amp;logo=threedotjs&amp;logoColor=FFFFFF" alt="Three.js">
-  <img src="https://img.shields.io/badge/-WebGL-0d1517?style=flat-square&amp;logo=webgl&amp;logoColor=E0464A" alt="WebGL">
-  <img src="https://img.shields.io/badge/-GLSL-0d1517?style=flat-square&amp;logo=opengl&amp;logoColor=7FB2D6" alt="GLSL">
-  <img src="https://img.shields.io/badge/-Rust-0d1517?style=flat-square&amp;logo=rust&amp;logoColor=DEA584" alt="Rust">
-  <img src="https://img.shields.io/badge/-Bevy-0d1517?style=flat-square&amp;logo=bevy&amp;logoColor=FFFFFF" alt="Bevy">
-  <img src="https://img.shields.io/badge/-WebAssembly-0d1517?style=flat-square&amp;logo=webassembly&amp;logoColor=8F7CFF" alt="WebAssembly">
-</p>
+## Connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/corashina/corashina/output/languages.svg" width="33%" alt="Most used languages">
-  <img src="https://raw.githubusercontent.com/corashina/corashina/output/activity.svg" width="65%" alt="Contributions over the last 30 days">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/corashina/corashina/output/eel.svg" width="100%" alt="Contribution graph with a glowing eel eating through it">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tomasz_Zielinski-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corashina)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edisoner97@gmail.com?subject=Hello%2C%20Tomasz)
